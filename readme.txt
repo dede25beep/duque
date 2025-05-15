@@ -2,6 +2,6 @@ Git é um sistema de controle de versão distribuído, ou seja, um software que 
 
 O comando git status exibe as condições do diretório de trabalho e da área de staging. Ele permite que você veja quais alterações foram despreparadas, quais não foram e quais arquivos não estão sendo monitorados pelo Git.
 
-Um "commit" no Git é um registro de alterações feitas em um repositório, que captura um ponto específico no histórico do projeto. É como um snapshot do código no momento do commit, permitindo rastrear as mudanças e retornar a um estado anterior, se necessário. 
+O commit no Git é um registro de alterações feitas em um repositório, que captura um ponto específico no histórico do projeto. É como um snapshot do código no momento do commit, permitindo rastrear as mudanças e retornar a um estado anterior, se necessário. 
 
 O git push é um comando Git que serve para enviar as alterações (commits) de um repositório local para um repositório remoto. Em outras palavras, é a forma como você compartilha o seu código com outros colaboradores ou faz um backup do seu projeto em um servidor remoto. 
